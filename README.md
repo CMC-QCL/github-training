@@ -1,5 +1,3 @@
 # github-training
 
-## Add your color
-
-Jehogit: Blue
+## Add your color (name:color)
